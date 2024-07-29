@@ -1,0 +1,28 @@
+[
+    {
+        "name":"WhatsApp",
+        "link":"https://wa.me/916300963789",
+        "icon":"https://cdn-icons-png.flaticon.com/128/15707/15707820.png"
+    },
+    {
+        "name":"Email",
+        "link":"mailto:vyomanautjagadeesh@gmail.com",
+        "icon":"https://cdn-icons-png.flaticon.com/128/732/732200.png"
+    },
+    {
+        "name":"Instagram",
+        "link":"https://www.instagram.com/vyomanautjagadeesh/",
+        "icon":"https://cdn-icons-png.flaticon.com/128/2111/2111463.png"
+    },
+    {
+        "name":"LinkedIN",
+        "link":"https://www.linkedin.com/in/jagadeesh-bariki-883b1122a/",
+        "icon":"https://cdn-icons-png.flaticon.com/128/3536/3536505.png"
+    },
+    {
+        "name":"GitHub",
+        "link":"https://github.com/Jagadeeshbariki",
+        "icon":"https://cdn-icons-png.flaticon.com/128/2111/2111432.png"
+    }
+    
+]

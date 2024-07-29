@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+
+.AboutContainer{
+    background-image: url('../../Assets/AbountBg.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 50px;
+}
+
+.AbountData{
+    display: block;
+    background-color: lightsteelblue;
+    width: 40%;
+    padding: 50px 100px;
+    color: rgb(61, 57, 57);
+    border-radius: 10px;
+}
+
+.aboutHeading{
+    font-size: 35px;
+    margin: 10px 0px;
+    font-family: "Oswald";
+}
+
+.AbountData p{
+    font-family: "Libre Franklin";
+}
+
+.MyIntro{
+    font-size:25px ;
+}
+
+.AbountData ul{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    flex-wrap: wrap;
+    height: 80px;
+    font-size: 19px;
+    justify-content: center;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.MyPassion{
+    font-size: 18px;
+    padding: 20px;
+}
+
+@media screen and (max-width:760px) {
+    .AbountData{
+        width: 100%;
+        padding: 0px;
+        background-color: rgba(255, 0, 0, 0);
+    }
+    .AboutContainer{
+        padding: 0px;
+    }
+}

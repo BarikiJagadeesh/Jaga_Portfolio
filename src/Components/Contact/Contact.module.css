@@ -1,0 +1,29 @@
+.constactImg{
+    height: 50px;
+    width: 50px;
+}
+
+
+
+.ContactContainer{
+    background-color: brown;
+    padding: 20px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
+
+.imgContainer{
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+@media screen and (max-width:760px) {
+    .imgContainer{
+        width: 100%;
+    }
+}
+
