@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/RaghuFarms/static/css/main.1c84e7a1.css",
-    "main.js": "/RaghuFarms/static/js/main.cb330a49.js",
-    "static/js/453.6703cfa4.chunk.js": "/RaghuFarms/static/js/453.6703cfa4.chunk.js",
-    "static/media/HomeBg.jpg": "/RaghuFarms/static/media/HomeBg.883ba38c780859efa27d.jpg",
-    "static/media/AbountBg.jpg": "/RaghuFarms/static/media/AbountBg.2912279308e3400776a3.jpg",
-    "index.html": "/RaghuFarms/index.html",
-    "main.1c84e7a1.css.map": "/RaghuFarms/static/css/main.1c84e7a1.css.map",
-    "main.cb330a49.js.map": "/RaghuFarms/static/js/main.cb330a49.js.map",
-    "453.6703cfa4.chunk.js.map": "/RaghuFarms/static/js/453.6703cfa4.chunk.js.map"
+    "main.css": "/Jaga_Portfolio/static/css/main.c39acdbb.css",
+    "main.js": "/Jaga_Portfolio/static/js/main.9827bc58.js",
+    "static/js/453.6703cfa4.chunk.js": "/Jaga_Portfolio/static/js/453.6703cfa4.chunk.js",
+    "static/media/HomeBg.jpg": "/Jaga_Portfolio/static/media/HomeBg.883ba38c780859efa27d.jpg",
+    "static/media/AbountBg.jpg": "/Jaga_Portfolio/static/media/AbountBg.2912279308e3400776a3.jpg",
+    "index.html": "/Jaga_Portfolio/index.html",
+    "main.c39acdbb.css.map": "/Jaga_Portfolio/static/css/main.c39acdbb.css.map",
+    "main.9827bc58.js.map": "/Jaga_Portfolio/static/js/main.9827bc58.js.map",
+    "453.6703cfa4.chunk.js.map": "/Jaga_Portfolio/static/js/453.6703cfa4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c84e7a1.css",
-    "static/js/main.cb330a49.js"
+    "static/css/main.c39acdbb.css",
+    "static/js/main.9827bc58.js"
   ]
 }
