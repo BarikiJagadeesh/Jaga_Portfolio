@@ -1,0 +1,18 @@
+[
+    {
+        "name":"EVM Model",
+        "discription":"Empower rural Indian villagers to effectively use Electronic Voting Machines (EVMs) in elections through an intuitive education model, promoting inclusive participation and confident voting.",
+        "technologies_Used":"React Js, Bootstrap, JavaScript, HTML, CSS",
+        "Devtools":"Visual Studio Code, Git, GitHub",
+        "Role":"Full Stack Developer",
+        "Photos":[]
+    },
+    {
+        "name":"News Applications",
+        "discription":" I have developed a news application using React and the News API. The API is free to use on localhost, but in production, we need to purchase access to the API. While I was able to successfully create and test the application on my local machine, I encountered an error when I hosted the website. To handle this, I have implemented an error page that is displayed whenever an error occurs on the hosted site.",
+        "technologies_Used":"React Js, Bootstrap, JavaScript, HTML, CSS",
+        "Devtools":"Visual Studio Code, Git, GitHub",
+        "Role":"FrontEnd Developer",
+        "Photos":[]
+    }
+]
